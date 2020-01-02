@@ -14,3 +14,8 @@ The need to find another human being has always puzzled me.Maybe because I'm so 
 * 저도 석사 학위는 있습니다.(I have a master's degree)
 
 * 왈로위저드(Wolowizard)
+
+penny 대사 정리
+=============
+
+* You're a  boring people sweetie
