@@ -1,5 +1,6 @@
 # thebigbangtheory
-* Sheldon 대사 정리
+Sheldon 대사 정리
+===============
 
 The need to find another human being has always puzzled me.Maybe because I'm so interesting all by myself.With that being said,wish u find as much happiness with each other as I find on my own.
 
@@ -7,7 +8,8 @@ The need to find another human being has always puzzled me.Maybe because I'm so 
 
 <img src="https:///Users/dgulinc/Downloads/6b88fc8affb89714694a0b7bc8889549_r.jpg" width="90%"></img>
 
-** 하워드 대사 정리 **
+하워드 대사 정리
+============
 
 * 저도 석사 학위는 있습니다.(I have a master's degree)
 
